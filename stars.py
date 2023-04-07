@@ -17,4 +17,4 @@ while i_x <= x_int:
 
 while i_y <= y_int:
     i_y += 1
-    print(symbols_x)
+    print(''.join(symbols_x))
